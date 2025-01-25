@@ -26,12 +26,13 @@ SnakeMania 🐍: A modern twist on the classic snake game! Built with HTML, CSS,
 3. Avoid colliding with the walls or yourself!
 
 ---
-Technologies Used 💻
-HTML: For the game structure.
+**Technologies Used 💻**
 
-CSS: For styling and layout.
+- `HTML` For the game structure.
 
-JavaScript: For game logic and interactivity.
+- `CSS`  For styling and layout.
+
+- `JavaScript` For game logic and interactivity.
 
 
 ---
